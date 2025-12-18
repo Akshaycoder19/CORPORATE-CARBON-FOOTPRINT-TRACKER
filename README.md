@@ -32,4 +32,4 @@ The project uses **Google Colab** and Python-based data analytics to explore emi
 
 ### 1️⃣ Clone the repository
 ```bash
-[git clone https://github.com/your-username/corporate-carbon-footprint-tracker.git](https://github.com/Akshaycoder19/CORPORATE-CARBON-FOOTPRINT-TRACKER)
+https://github.com/Akshaycoder19/CORPORATE-CARBON-FOOTPRINT-TRACKER
